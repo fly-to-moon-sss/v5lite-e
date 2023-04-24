@@ -14,10 +14,10 @@ val: CPPE/images/val  # 29 images
  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # number of classes
-nc: 3
+nc: 1
 
 # class names
-names: ['nlb','nls','gls']
+names: ['nlb']
 
 # Print classes
 # with open('data/coco.yaml') as f:
